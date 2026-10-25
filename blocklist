@@ -1,0 +1,53 @@
+# DPG Media Algemeen & Trackers / CDN
+*.dpgmedia.net
+*.dpgmedia.cloud
+*.myprivacy.dpgmedia.net
+*.myprivacy.dpgmedia.nl
+*.myprivacy.dpgmedia.be
+*.dpgmedia.nl
+*.dpgmedia.be
+
+# Tech
+*.tweakers.net
+*.hardwareinfo.net
+
+# Landelijk Nieuws (NL)
+*.nu.nl
+*.ad.nl
+*.volkskrant.nl
+*.trouw.nl
+*.parool.nl
+*.rtlnieuws.nl
+*.rtl.nl
+
+# Regionaal Nieuws (NL)
+*.gelderlander.nl
+*.bd.nl
+*.ed.nl
+*.bndestem.nl
+*.destentor.nl
+*.tubantia.nl
+*.pzc.nl
+*.indebuurt.nl
+
+# Nieuws (BE)
+*.hln.be
+*.demorgen.be
+*.7sur7.be
+
+# Auto, Magazines, Lifestyle & Diensten
+*.autoweek.nl
+*.buienradar.nl
+*.buienradar.be
+*.deondernemer.nl
+*.sportnieuws.nl
+*.independer.nl
+*.linda.nl
+*.libelle.nl
+*.libelle.be
+*.vtwonen.nl
+*.donaldduck.nl
+*.flair.nl
+*.flair.be
+*.margriet.nl
+*.story.nl
