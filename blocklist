@@ -51,3 +51,8 @@
 *.flair.be
 *.margriet.nl
 *.story.nl
+
+# Extra domeinen
+*.androidworld.nl
+*.bright.nl
+*.telegraaf.nl
